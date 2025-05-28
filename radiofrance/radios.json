@@ -5,7 +5,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/franceinter.png",
         "mjh_master": "https://stream.radiofrance.fr/franceinter/franceinter_hifi.m3u8",
-        "name": "France Inter",
+        "name": "France Inter"
     },
     "franceinter_la_musique_inter": {
         "description": "France Inter La musique d'Inter",
@@ -13,7 +13,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/franceinter.png",
         "mjh_master": "https://stream.radiofrance.fr/franceinterlamusiqueinter/franceinterlamusiqueinter_hifi.m3u8",
-        "name": "France Inter La musique d'Inter",
+        "name": "France Inter La musique d'Inter"
     },
     "franceinfo": {
         "description": "franceinfo",
@@ -21,7 +21,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/franceinfo.png",
         "mjh_master": "https://stream.radiofrance.fr/franceinfo/franceinfo_hifi.m3u8",
-        "name": "franceinfo",
+        "name": "franceinfo"
     },
     "francemusique": {
         "description": "France Musique",
@@ -29,7 +29,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francemusique.png",
         "mjh_master": "https://stream.radiofrance.fr/francemusique/francemusique_hifi.m3u8",
-        "name": "France Musique",
+        "name": "France Musique"
     },
     "francemusique_classique_easy": {
         "description": "France Musique Classique Easy",
@@ -37,7 +37,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francemusique.png",
         "mjh_master": "https://stream.radiofrance.fr/francemusiqueeasyclassique/francemusiqueeasyclassique_hifi.m3u8",
-        "name": "France Musique Classique Easy",
+        "name": "France Musique Classique Easy"
     },
     "francemusique_classique_plus": {
         "description": "France Musique Classique Plus",
@@ -45,7 +45,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francemusique.png",
         "mjh_master": "https://stream.radiofrance.fr/francemusiqueclassiqueplus/francemusiqueclassiqueplus_hifi.m3u8",
-        "name": "France Musique Classique Plus",
+        "name": "France Musique Classique Plus"
     },
     "francemusique_concert_rf": {
         "description": "France Musique Concerts Radio France",
@@ -53,7 +53,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francemusique.png",
         "mjh_master": "https://stream.radiofrance.fr/francemusiqueconcertsradiofrance/francemusiqueconcertsradiofrance_hifi.m3u8",
-        "name": "France Musique Concerts Radio France",
+        "name": "France Musique Concerts Radio France"
     },
     "francemusique_ocora_monde": {
         "description": "France Musique Ocora Musiques du Monde",
@@ -61,7 +61,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francemusique.png",
         "mjh_master": "https://stream.radiofrance.fr/francemusiqueocoramonde/francemusiqueocoramonde_hifi.m3u8",
-        "name": "France Musique Ocora Musiques du Monde",
+        "name": "France Musique Ocora Musiques du Monde"
     },
     "francemusique_la_jazz": {
         "description": "France Musique La Jazz",
@@ -69,7 +69,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francemusique.png",
         "mjh_master": "https://stream.radiofrance.fr/francemusiquelajazz/francemusiquelajazz_hifi.m3u8",
-        "name": "France Musique La Jazz",
+        "name": "France Musique La Jazz"
     },
     "francemusique_la_contemporaine": {
         "description": "France Musique La Contemporaine",
@@ -77,7 +77,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francemusique.png",
         "mjh_master": "https://stream.radiofrance.fr/francemusiquelacontemporaine/francemusiquelacontemporaine_hifi.m3u8",
-        "name": "France Musique La Contemporaine",
+        "name": "France Musique La Contemporaine"
     },
     "francemusique_la_bo": {
         "description": "France Musique Musique de Films",
@@ -85,7 +85,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francemusique.png",
         "mjh_master": "https://stream.radiofrance.fr/francemusiquelabo/francemusiquelabo_hifi.m3u8",
-        "name": "France Musique Musique de Films",
+        "name": "France Musique Musique de Films"
     },
     "francemusique_la_baroque": {
         "description": "France Musique La Baroque",
@@ -93,7 +93,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francemusique.png",
         "mjh_master": "https://stream.radiofrance.fr/francemusiquebaroque/francemusiquebaroque_hifi.m3u8",
-        "name": "France Musique La Baroque",
+        "name": "France Musique La Baroque"
     },
     "francemusique_opera": {
         "description": "France Musique Opéra",
@@ -101,7 +101,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francemusique.png",
         "mjh_master": "https://stream.radiofrance.fr/francemusiqueopera/francemusiqueopera_hifi.m3u8",
-        "name": "France Musique Opéra",
+        "name": "France Musique Opéra"
     },
     "francemusique_piano_zen": {
         "description": "France Musique Piano Zen",
@@ -109,7 +109,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francemusique.png",
         "mjh_master": "https://stream.radiofrance.fr/francemusiquepianozen/francemusiquepianozen_hifi.m3u8",
-        "name": "France Musique Piano Zen",
+        "name": "France Musique Piano Zen"
     },
     "franceculture": {
         "description": "France Culture",
@@ -117,7 +117,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/franceculture.png",
         "mjh_master": "https://stream.radiofrance.fr/franceculture/franceculture_hifi.m3u8",
-        "name": "France Culture",
+        "name": "France Culture"
     },
     "mouv": {
         "description": "Mouv'",
@@ -125,7 +125,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/mouv.png",
         "mjh_master": "https://stream.radiofrance.fr/mouv/mouv_hifi.m3u8",
-        "name": "Mouv'",
+        "name": "Mouv'"
     },
     "mouv_100mix": {
         "description": "Mouv' 100% Mix",
@@ -133,7 +133,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/mouv.png",
         "mjh_master": "https://stream.radiofrance.fr/mouv100p100mix/mouv100p100mix_hifi.m3u8",
-        "name": "Mouv' 100% Mix",
+        "name": "Mouv' 100% Mix"
     },
     "mouv_classics": {
         "description": "Mouv' Classics",
@@ -141,7 +141,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/mouv.png",
         "mjh_master": "https://stream.radiofrance.fr/mouvclassics/mouvclassics_hifi.m3u8",
-        "name": "Mouv' Classics",
+        "name": "Mouv' Classics"
     },
     "mouv_dancehall": {
         "description": "Mouv' DanceHall",
@@ -149,7 +149,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/mouv.png",
         "mjh_master": "https://stream.radiofrance.fr/mouvdancehall/mouvdancehall_hifi.m3u8",
-        "name": "Mouv' DanceHall",
+        "name": "Mouv' DanceHall"
     },
     "mouv_rnb": {
         "description": "Mouv' Mouv’ RnB & Soul",
@@ -157,7 +157,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/mouv.png",
         "mjh_master": "https://stream.radiofrance.fr/mouvrnb/mouvrnb_hifi.m3u8",
-        "name": "Mouv' Mouv’ RnB & Soul",
+        "name": "Mouv' Mouv’ RnB & Soul"
     },
     "mouv_rapus": {
         "description": "Mouv' Rap US",
@@ -165,7 +165,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/mouv.png",
         "mjh_master": "https://stream.radiofrance.fr/mouvrapus/mouvrapus_hifi.m3u8",
-        "name": "Mouv' Rap US",
+        "name": "Mouv' Rap US"
     },
     "mouv_rapfr": {
         "description": "Mouv' Rap Français",
@@ -173,7 +173,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/mouv.png",
         "mjh_master": "https://stream.radiofrance.fr/mouvrapfr/mouvrapfr_hifi.m3u8",
-        "name": "Mouv' Rap Français",
+        "name": "Mouv' Rap Français"
     },
     "fip": {
         "description": "FIP",
@@ -181,7 +181,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/fip.png",
         "mjh_master": "https://stream.radiofrance.fr/fip/fip_hifi.m3u8",
-        "name": "FIP",
+        "name": "FIP"
     },
     "fip_rock": {
         "description": "FIP Rock",
@@ -189,7 +189,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/fip.png",
         "mjh_master": "https://stream.radiofrance.fr/fiprock/fiprock_hifi.m3u8",
-        "name": "FIP Rock",
+        "name": "FIP Rock"
     },
     "fip_jazz": {
         "description": "FIP Jazz",
@@ -197,7 +197,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/fip.png",
         "mjh_master": "https://stream.radiofrance.fr/fipjazz/fipjazz_hifi.m3u8",
-        "name": "FIP Jazz",
+        "name": "FIP Jazz"
     },
     "fip_groove": {
         "description": "FIP Groove",
@@ -205,7 +205,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/fip.png",
         "mjh_master": "https://stream.radiofrance.fr/fipgroove/fipgroove_hifi.m3u8",
-        "name": "FIP Groove",
+        "name": "FIP Groove"
     },
     "fip_world": {
         "description": "FIP Monde",
@@ -213,7 +213,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/fip.png",
         "mjh_master": "https://stream.radiofrance.fr/fipworld/fipworld_hifi.m3u8",
-        "name": "FIP Monde",
+        "name": "FIP Monde"
     },
     "fip_nouveautes": {
         "description": "FIP Nouveautés",
@@ -221,7 +221,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/fip.png",
         "mjh_master": "https://stream.radiofrance.fr/fipnouveautes/fipnouveautes_hifi.m3u8",
-        "name": "FIP Nouveautés",
+        "name": "FIP Nouveautés"
     },
     "fip_reggae": {
         "description": "FIP Reggae",
@@ -229,7 +229,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/fip.png",
         "mjh_master": "https://stream.radiofrance.fr/fipreggae/fipreggae_hifi.m3u8",
-        "name": "FIP Reggae",
+        "name": "FIP Reggae"
     },
     "fip_electro": {
         "description": "FIP Electro",
@@ -237,7 +237,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/fip.png",
         "mjh_master": "https://stream.radiofrance.fr/fipelectro/fipelectro_hifi.m3u8",
-        "name": "FIP Electro",
+        "name": "FIP Electro"
     },
     "fip_metal": {
         "description": "FIP Metal",
@@ -245,7 +245,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/fip.png",
         "mjh_master": "https://stream.radiofrance.fr/fipmetal/fipmetal_hifi.m3u8",
-        "name": "FIP Metal",
+        "name": "FIP Metal"
     },
     "fip_pop": {
         "description": "FIP Pop",
@@ -253,7 +253,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/fip.png",
         "mjh_master": "https://stream.radiofrance.fr/fippop/fippop_hifi.m3u8",
-        "name": "FIP Pop",
+        "name": "FIP Pop"
     },
     "fip_hip_hop": {
         "description": "FIP Hip-Hop",
@@ -261,7 +261,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/fip.png",
         "mjh_master": "https://stream.radiofrance.fr/fiphiphop/fiphiphop_hifi.m3u8",
-        "name": "FIP Hip-Hop",
+        "name": "FIP Hip-Hop"
     },
     "francebleu_rcfm": {
         "description": "ici RCFM",
@@ -269,7 +269,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francebleu.png",
         "mjh_master": "https://stream.radiofrance.fr/fbfrequenzamora/fbfrequenzamora_hifi.m3u8",
-        "name": "ici RCFM",
+        "name": "ici RCFM"
     },
     "francebleu_alsace": {
         "description": "ici Alsace",
@@ -277,7 +277,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francebleu.png",
         "mjh_master": "https://stream.radiofrance.fr/fbalsace/fbalsace_hifi.m3u8",
-        "name": "ici Alsace",
+        "name": "ici Alsace"
     },
     "francebleu_armorique": {
         "description": "ici Armorique",
@@ -285,7 +285,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francebleu.png",
         "mjh_master": "https://stream.radiofrance.fr/fbarmorique/fbarmorique_hifi.m3u8",
-        "name": "ici Armorique",
+        "name": "ici Armorique"
     },
     "francebleu_auxerre": {
         "description": "ici Auxerre",
@@ -293,7 +293,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francebleu.png",
         "mjh_master": "https://stream.radiofrance.fr/fbauxerre/fbauxerre_hifi.m3u8",
-        "name": "ici Auxerre",
+        "name": "ici Auxerre"
     },
     "francebleu_bearn": {
         "description": "ici Béarn Bigorre",
@@ -301,7 +301,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francebleu.png",
         "mjh_master": "https://stream.radiofrance.fr/fbbearn/fbbearn_hifi.m3u8",
-        "name": "ici Béarn Bigorre",
+        "name": "ici Béarn Bigorre"
     },
     "francebleu_belfort_montbeliard": {
         "description": "ici Belfort-Montbéliard",
@@ -309,7 +309,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francebleu.png",
         "mjh_master": "https://stream.radiofrance.fr/fbbelfort/fbbelfort_hifi.m3u8",
-        "name": "ici Belfort-Montbéliard",
+        "name": "ici Belfort-Montbéliard"
     },
     "francebleu_berry": {
         "description": "ici Berry",
@@ -317,7 +317,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francebleu.png",
         "mjh_master": "https://stream.radiofrance.fr/fbberry/fbberry_hifi.m3u8",
-        "name": "ici Berry",
+        "name": "ici Berry"
     },
     "francebleu_besancon": {
         "description": "ici Besançon",
@@ -325,7 +325,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francebleu.png",
         "mjh_master": "https://stream.radiofrance.fr/fbbesancon/fbbesancon_hifi.m3u8",
-        "name": "ici Besançon",
+        "name": "ici Besançon"
     },
     "francebleu_bourgogne": {
         "description": "ici Bourgogne",
@@ -333,7 +333,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francebleu.png",
         "mjh_master": "https://stream.radiofrance.fr/fbbourgogne/fbbourgogne_hifi.m3u8",
-        "name": "ici Bourgogne",
+        "name": "ici Bourgogne"
     },
     "francebleu_breizh_izel": {
         "description": "ici Breizh Izel",
@@ -341,7 +341,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francebleu.png",
         "mjh_master": "https://stream.radiofrance.fr/fbbreizizel/fbbreizizel_hifi.m3u8",
-        "name": "ici Breizh Izel",
+        "name": "ici Breizh Izel"
     },
     "francebleu_champagne_ardenne": {
         "description": "ici Champagne-Ardenne",
@@ -349,7 +349,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francebleu.png",
         "mjh_master": "https://stream.radiofrance.fr/fbchampagne/fbchampagne_hifi.m3u8",
-        "name": "ici Champagne-Ardenne",
+        "name": "ici Champagne-Ardenne"
     },
     "francebleu_cotentin": {
         "description": "ici Cotentin",
@@ -357,7 +357,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francebleu.png",
         "mjh_master": "https://stream.radiofrance.fr/fbcotentin/fbcotentin_hifi.m3u8",
-        "name": "ici Cotentin",
+        "name": "ici Cotentin"
     },
     "francebleu_creuse": {
         "description": "ici Creuse",
@@ -365,7 +365,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francebleu.png",
         "mjh_master": "https://stream.radiofrance.fr/fbcreuse/fbcreuse_hifi.m3u8",
-        "name": "ici Creuse",
+        "name": "ici Creuse"
     },
     "francebleu_drome_ardeche": {
         "description": "ici Drôme Ardèche",
@@ -373,7 +373,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francebleu.png",
         "mjh_master": "https://stream.radiofrance.fr/fbdromeardeche/fbdromeardeche_hifi.m3u8",
-        "name": "ici Drôme Ardèche",
+        "name": "ici Drôme Ardèche"
     },
     "francebleu_gard_lozere": {
         "description": "ici Gard Lozère",
@@ -381,7 +381,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francebleu.png",
         "mjh_master": "https://stream.radiofrance.fr/fbgardlozere/fbgardlozere_hifi.m3u8",
-        "name": "ici Gard Lozère",
+        "name": "ici Gard Lozère"
     },
     "francebleu_gascogne": {
         "description": "ici Gascogne",
@@ -389,7 +389,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francebleu.png",
         "mjh_master": "https://stream.radiofrance.fr/fbgascogne/fbgascogne_hifi.m3u8",
-        "name": "ici Gascogne",
+        "name": "ici Gascogne"
     },
     "francebleu_gironde": {
         "description": "ici Gironde",
@@ -397,7 +397,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francebleu.png",
         "mjh_master": "https://stream.radiofrance.fr/fbgironde/fbgironde_hifi.m3u8",
-        "name": "ici Gironde",
+        "name": "ici Gironde"
     },
     "francebleu_herault": {
         "description": "ici Hérault",
@@ -405,7 +405,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francebleu.png",
         "mjh_master": "https://stream.radiofrance.fr/fbherault/fbherault_hifi.m3u8",
-        "name": "ici Hérault",
+        "name": "ici Hérault"
     },
     "francebleu_isere": {
         "description": "ici Isère",
@@ -413,7 +413,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francebleu.png",
         "mjh_master": "https://stream.radiofrance.fr/fbisere/fbisere_hifi.m3u8",
-        "name": "ici Isère",
+        "name": "ici Isère"
     },
     "francebleu_la_rochelle": {
         "description": "ici La Rochelle",
@@ -421,7 +421,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francebleu.png",
         "mjh_master": "https://stream.radiofrance.fr/fblarochelle/fblarochelle_hifi.m3u8",
-        "name": "ici La Rochelle",
+        "name": "ici La Rochelle"
     },
     "francebleu_limousin": {
         "description": "ici Limousin",
@@ -429,7 +429,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francebleu.png",
         "mjh_master": "https://stream.radiofrance.fr/fblimousin/fblimousin_hifi.m3u8",
-        "name": "ici Limousin",
+        "name": "ici Limousin"
     },
     "francebleu_loire_ocean": {
         "description": "ici Loire Océan",
@@ -437,7 +437,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francebleu.png",
         "mjh_master": "https://stream.radiofrance.fr/fbloireocean/fbloireocean_hifi.m3u8",
-        "name": "ici Loire Océan",
+        "name": "ici Loire Océan"
     },
     "francebleu_sur_lorraine": {
         "description": "ici Sud Lorraine",
@@ -445,7 +445,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francebleu.png",
         "mjh_master": "https://stream.radiofrance.fr/fbsudlorraine/fbsudlorraine_hifi.m3u8",
-        "name": "ici Sud Lorraine",
+        "name": "ici Sud Lorraine"
     },
     "francebleu_mayenne": {
         "description": "ici Mayenne",
@@ -453,7 +453,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francebleu.png",
         "mjh_master": "https://stream.radiofrance.fr/fbmayenne/fbmayenne_hifi.m3u8",
-        "name": "ici Mayenne",
+        "name": "ici Mayenne"
     },
     "francebleu_nord": {
         "description": "ici Nord",
@@ -461,7 +461,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francebleu.png",
         "mjh_master": "https://stream.radiofrance.fr/fbnord/fbnord_hifi.m3u8",
-        "name": "ici Nord",
+        "name": "ici Nord"
     },
     "francebleu_normandie_caen": {
         "description": "ici Normandie (Calvados - Orne)",
@@ -469,7 +469,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francebleu.png",
         "mjh_master": "https://stream.radiofrance.fr/fbbassenormandie/fbbassenormandie_hifi.m3u8",
-        "name": "ici Normandie (Calvados - Orne)",
+        "name": "ici Normandie (Calvados - Orne)"
     },
     "francebleu_normandie_rouen": {
         "description": "ici Normandie (Seine-Maritime - Eure)",
@@ -477,7 +477,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francebleu.png",
         "mjh_master": "https://stream.radiofrance.fr/fbhautenormandie/fbhautenormandie_hifi.m3u8",
-        "name": "ici Normandie (Seine-Maritime - Eure)",
+        "name": "ici Normandie (Seine-Maritime - Eure)"
     },
     "francebleu_orleans": {
         "description": "ici Orléans",
@@ -485,7 +485,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francebleu.png",
         "mjh_master": "https://stream.radiofrance.fr/fborleans/fborleans_hifi.m3u8",
-        "name": "ici Orléans",
+        "name": "ici Orléans"
     },
     "francebleu_pays_d_auvergne": {
         "description": "ici Pays d'Auvergne",
@@ -493,7 +493,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francebleu.png",
         "mjh_master": "https://stream.radiofrance.fr/fbpaysdauvergne/fbpaysdauvergne_hifi.m3u8",
-        "name": "ici Pays d'Auvergne",
+        "name": "ici Pays d'Auvergne"
     },
     "francebleu_pays_basque": {
         "description": "ici Pays Basque",
@@ -501,7 +501,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francebleu.png",
         "mjh_master": "https://stream.radiofrance.fr/fbpaysbasque/fbpaysbasque_hifi.m3u8",
-        "name": "ici Pays Basque",
+        "name": "ici Pays Basque"
     },
     "francebleu_pays_de_savoie": {
         "description": "ici Pays de Savoie",
@@ -509,7 +509,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francebleu.png",
         "mjh_master": "https://stream.radiofrance.fr/fbpaysdesavoie/fbpaysdesavoie_hifi.m3u8",
-        "name": "ici Pays de Savoie",
+        "name": "ici Pays de Savoie"
     },
     "francebleu_perigord": {
         "description": "ici Périgord",
@@ -517,7 +517,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francebleu.png",
         "mjh_master": "https://stream.radiofrance.fr/fbperigord/fbperigord_hifi.m3u8",
-        "name": "ici Périgord",
+        "name": "ici Périgord"
     },
     "francebleu_picardie": {
         "description": "ici Picardie",
@@ -525,7 +525,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francebleu.png",
         "mjh_master": "https://stream.radiofrance.fr/fbpicardie/fbpicardie_hifi.m3u8",
-        "name": "ici Picardie",
+        "name": "ici Picardie"
     },
     "francebleu_provence": {
         "description": "ici Provence",
@@ -533,7 +533,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francebleu.png",
         "mjh_master": "https://stream.radiofrance.fr/fbprovence/fbprovence_hifi.m3u8",
-        "name": "ici Provence",
+        "name": "ici Provence"
     },
     "francebleu_roussillon": {
         "description": "ici Roussillon",
@@ -541,7 +541,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francebleu.png",
         "mjh_master": "https://stream.radiofrance.fr/fbroussillon/fbroussillon_hifi.m3u8",
-        "name": "ici Roussillon",
+        "name": "ici Roussillon"
     },
     "francebleu_touraine": {
         "description": "ici Touraine",
@@ -549,7 +549,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francebleu.png",
         "mjh_master": "https://stream.radiofrance.fr/fbtouraine/fbtouraine_hifi.m3u8",
-        "name": "ici Touraine",
+        "name": "ici Touraine"
     },
     "francebleu_vaucluse": {
         "description": "ici Vaucluse",
@@ -557,7 +557,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francebleu.png",
         "mjh_master": "https://stream.radiofrance.fr/fbvaucluse/fbvaucluse_hifi.m3u8",
-        "name": "ici Vaucluse",
+        "name": "ici Vaucluse"
     },
     "francebleu_azur": {
         "description": "ici Azur",
@@ -565,7 +565,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francebleu.png",
         "mjh_master": "https://stream.radiofrance.fr/fbazur/fbazur_hifi.m3u8",
-        "name": "ici Azur",
+        "name": "ici Azur"
     },
     "francebleu_lorraine_nord": {
         "description": "ici Lorraine",
@@ -573,7 +573,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francebleu.png",
         "mjh_master": "https://stream.radiofrance.fr/fblorrainenord/fblorrainenord_hifi.m3u8",
-        "name": "ici Lorraine",
+        "name": "ici Lorraine"
     },
     "francebleu_poitou": {
         "description": "ici Poitou",
@@ -581,7 +581,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francebleu.png",
         "mjh_master": "https://stream.radiofrance.fr/fbpoitou/fbpoitou_hifi.m3u8",
-        "name": "ici Poitou",
+        "name": "ici Poitou"
     },
     "francebleu_paris": {
         "description": "ici Paris Île-de-France",
@@ -589,7 +589,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francebleu.png",
         "mjh_master": "https://stream.radiofrance.fr/fb1071/fb1071_hifi.m3u8",
-        "name": "ici Paris Île-de-France",
+        "name": "ici Paris Île-de-France"
     },
     "elsass": {
         "description": "ici Elsass",
@@ -597,7 +597,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francebleu.png",
         "mjh_master": "https://stream.radiofrance.fr/fbelsass/fbelsass_hifi.m3u8",
-        "name": "ici Elsass",
+        "name": "ici Elsass"
     },
     "francebleu_maine": {
         "description": "ici Maine",
@@ -605,7 +605,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francebleu.png",
         "mjh_master": "https://stream.radiofrance.fr/fbmaine/fbmaine_hifi.m3u8",
-        "name": "ici Maine",
+        "name": "ici Maine"
     },
     "francebleu_toulouse": {
         "description": "ici Occitanie",
@@ -613,7 +613,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francebleu.png",
         "mjh_master": "https://stream.radiofrance.fr/fbtoulouse/fbtoulouse_hifi.m3u8",
-        "name": "ici Occitanie",
+        "name": "ici Occitanie"
     },
     "francebleu_saint_etienne_loire": {
         "description": "ici Saint-Étienne Loire",
@@ -621,7 +621,7 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francebleu.png",
         "mjh_master": "https://stream.radiofrance.fr/fbstetienne/fbstetienne_hifi.m3u8",
-        "name": "ici Saint-Étienne Loire",
+        "name": "ici Saint-Étienne Loire"
     },
     "francebleu_chanson_francaise": {
         "description": "ici 100% chanson française",
@@ -629,6 +629,6 @@
         "headers": {},
         "logo": "https://raw.githubusercontent.com/KasparWinckler/radios/main/radiofrance/icons/francebleu.png",
         "mjh_master": "https://stream.radiofrance.fr/fbchansonfrancaise/fbchansonfrancaise_hifi.m3u8",
-        "name": "ici 100% chanson française",
+        "name": "ici 100% chanson française"
     },
 }
